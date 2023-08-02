@@ -3,7 +3,7 @@
 owner = PDY
 controller = PDY
 culture = tamil
-religion = hinduism
+religion = nestorian
 capital = "Dindigul"
 trade_goods = naval_supplies
 hre = no

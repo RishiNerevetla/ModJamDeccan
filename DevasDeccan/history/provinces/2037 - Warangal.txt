@@ -3,7 +3,7 @@
 owner = KAK
 controller = KAK
 culture = telegu
-religion = hinduism
+religion = jainism
 capital = "Warangal"
 trade_goods = cotton
 hre = no

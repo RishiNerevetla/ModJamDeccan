@@ -3,7 +3,7 @@
 owner = ALP
 controller = ALP
 culture = kannada
-religion = hinduism
+religion = jainism
 capital = "Honnavara"
 trade_goods = spices
 hre = no

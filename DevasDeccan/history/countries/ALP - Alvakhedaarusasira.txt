@@ -3,7 +3,7 @@ add_government_reform = indian_sultanate_reform
 technology_group = indian
 religion = sunni
 primary_culture = kannada
-capital = 531	# Mangaluru
+capital = 2029	# Mangaluru
 religious_school = shafii_school
 historical_friend = HOY
 

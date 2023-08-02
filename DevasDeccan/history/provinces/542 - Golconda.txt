@@ -3,7 +3,7 @@
 owner = KAK
 controller = KAK
 culture = telegu
-religion = hinduism
+religion = jainism
 capital = "Golconda"
 trade_goods = gems #Diamonds
 #trade_goods = silk

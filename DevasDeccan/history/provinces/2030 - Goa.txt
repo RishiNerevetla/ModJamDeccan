@@ -3,7 +3,7 @@
 owner = ALP
 controller = ALP
 culture = marathi
-religion = hinduism
+religion = sunni
 capital = "Goa"
 trade_goods = spices
 hre = no

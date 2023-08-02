@@ -3,7 +3,7 @@
 owner = SEU
 controller = SEU
 culture = kannada
-religion = hinduism
+religion = jainism
 capital = "Bijapur"
 trade_goods = cotton
 hre = no

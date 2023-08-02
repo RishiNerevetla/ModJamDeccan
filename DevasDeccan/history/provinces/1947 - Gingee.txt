@@ -3,7 +3,7 @@
 owner = COA
 controller = COA
 culture = tamil
-religion = hinduism
+religion = jainism
 capital = "Gingee"
 trade_goods = cloth
 hre = no

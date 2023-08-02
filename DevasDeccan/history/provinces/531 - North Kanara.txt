@@ -3,7 +3,7 @@
 owner = ALP
 controller = ALP
 culture = kannada
-religion = hinduism
+religion = sunni
 capital = "Bhatkal"
 trade_goods = spices
 hre = no

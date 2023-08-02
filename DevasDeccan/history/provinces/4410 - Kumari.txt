@@ -3,7 +3,7 @@
 owner = PDY
 controller = PDY
 culture = malayalam
-religion = hinduism
+religion = nestorian
 capital = "Kumari"
 trade_goods = spices
 hre = no

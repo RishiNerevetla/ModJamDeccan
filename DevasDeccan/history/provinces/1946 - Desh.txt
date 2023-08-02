@@ -3,7 +3,7 @@
 owner = SEU
 controller = SEU
 culture = marathi
-religion = hinduism
+religion = jainism
 capital = "Satara"
 trade_goods = naval_supplies
 hre = no

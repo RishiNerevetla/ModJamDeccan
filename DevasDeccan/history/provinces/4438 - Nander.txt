@@ -3,7 +3,7 @@
 owner = KAK
 controller = KAK
 culture = marathi
-religion = hinduism
+religion = jainism
 capital = "Nander"
 trade_goods = silk
 hre = no

@@ -2,9 +2,10 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = indian
-religion = hinduism
+religion = jainism
 primary_culture = marathi
 capital = 545	# Devagiri
+add_harmonized_religion = hinduism
 
 #Rajas of Baglana
 1399.1.1 = {

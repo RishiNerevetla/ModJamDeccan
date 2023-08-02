@@ -3,7 +3,7 @@
 owner = SEU
 controller = SEU
 culture = marathi
-religion = hinduism
+religion = jainism
 capital = "Sholhapur"
 trade_goods = cotton
 hre = no

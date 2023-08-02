@@ -3,7 +3,7 @@
 owner = SEU
 controller = SEU
 culture = marathi
-religion = hinduism
+religion = jainism
 capital = "Pune"
 trade_goods = grain	#Millet
 hre = no

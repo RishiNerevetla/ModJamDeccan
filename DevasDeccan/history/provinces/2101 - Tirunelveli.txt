@@ -3,7 +3,7 @@
 owner = PDY
 controller = PDY
 culture = tamil
-religion = hinduism
+religion = nestorian
 capital = "Tirunelveli"
 trade_goods = gems #Pearls
 hre = no

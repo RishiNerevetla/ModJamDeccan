@@ -3,8 +3,8 @@
 owner = ALP
 controller = ALP
 culture = kannada
-religion = hinduism
-capital = "Mangalore"
+religion = sunni
+capital = "Mangaluru"
 trade_goods = tropical_wood
 hre = no
 base_tax = 3

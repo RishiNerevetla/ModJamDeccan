@@ -3,7 +3,7 @@
 owner = KAK
 controller = KAK
 culture = kannada
-religion = hinduism
+religion = jainism
 capital = "Raichur"
 trade_goods = cloth
 hre = no

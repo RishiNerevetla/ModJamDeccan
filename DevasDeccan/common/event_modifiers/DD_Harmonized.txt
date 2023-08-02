@@ -1,0 +1,16 @@
+harmonized_sikhism = {
+	land_morale = 0.1
+	religion = yes
+}
+harmonized_zunist = {
+	discipline = 0.05
+	religion = yes
+}
+harmonized_hindu = {
+	global_tax_modifier = 0.1
+	religion = yes
+}
+harmonized_eastern = {
+	advisor_cost = -0.1
+	religion = yes
+}

@@ -3,7 +3,7 @@
 owner = PDY
 controller = PDY
 culture = tamil
-religion = hinduism
+religion = nestorian
 capital = "Madurai"
 trade_goods = silk
 hre = no

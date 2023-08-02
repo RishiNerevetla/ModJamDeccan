@@ -3,7 +3,7 @@
 owner = HOY
 controller = HOY
 culture = kannada
-religion = hinduism
+religion = jainism
 capital = "Ikkeri"
 trade_goods = coffee
 hre = no
